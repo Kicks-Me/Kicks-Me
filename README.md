@@ -1,138 +1,102 @@
 # Hi there 👋
 ## 👋 Hi, I'm Kicks-Me <<ພາສາລາວຢູ່ລຸ່ມສຸດ>>
 
-**Full-Stack Web Developer | Desktop Application Builder | Idea Realizer**
+## Full-Stack Developer | Turning Your Ideas to Life
 
-> *“I don’t just code — I return your ideas to life, one budget and demand at a time.”*
-
-📍 Based in Laos • 🌍 Building solutions that work — not just dazzle
+**📍 Based in Laos • 🌍 Building solutions that work — not just dazzle**
 
 ---
 
-### 🛠️ Technologies I Work With
+### 🛠️ Skills
 
-#### 🌐 Web Development
-- **Frontend**: React.js, Vue.js, JavaScript, HTML5, CSS3
-- **Backend**: Node.js, Prisma ORM and Express
-- **Databases**: PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Firebase
-
-#### 💻 Desktop Applications
-- **C#.NET** | **VB.NET** | **Java**  
-  (Windows & cross-platform desktop apps — from internal tools to enterprise systems)
+**Web:** React.js · Vue.js · JavaScript · Node.js · Express · Prisma  
+**Databases:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
+**Desktop:** C#.NET · VB.NET · Java
 
 ---
 
-### 🚀 What I Do
+### 💼 Work Experience
 
-I turn concepts into working software **(Idea digital)** — whether it’s a sleek web app, a robust desktop tool, or a hybrid system that connects both.  
-I don’t wait for perfect specs. I don’t overpromise.  
-I listen. I adapt. And I build **what you actually need**, within your budget and timeline.
+- **Frontend Web Developer** — Computer Science Lab Co., Ltd · 2025 – Present  
+  _Building frontend websites aligned with marketing and business needs._
+- **Full Stack Web Developer** — TPLUS Digital Sole Co., Ltd · 2022 – 2024  
+  _Built B2B E-Topup systems with Node.js, React.js, PHP, and Laravel, integrating cores of OCS, HLR, USSD, SMSC, and SPNV._
+- **Chief of Software Engineering** — Hoya Laos Co., Ltd · 2019 – 2022  
+  _Led engineering and system improvements, managing server maintenance, real-time systems, and QC/QA/PD._
 
-Whether you’re a startup with a dream, a small business needing automation, or an organization tired of clunky legacy systems —  
-**Let’s build something that works.**
-
----
-
-### 🔧 Recent Projects (Sample)
-- **[HR Online] is a ready to serve you** — Full-stack task, leave, attendence & KPI system with multi-round evaluations (React + Node.js + PostgreSQL)
-- **[Job Agency kk-jobs.com]** — is serving to a local business in Laos.
-- **[Window toolkit Or full application is on demand]** — C#.NET Windows app with SQL Server backend for SMEs
-
+**<a href="https://kicks-me.pages.dev" target="_blank" rel="noopener noreferrer">→ Read more</a>**
 
 ---
 
-### 📬 Let’s Connect
+### 🚀 Highlighted Projects
 
-- ✉️ Email: yangsenxayp@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/kicks-me]
-- 🐙 GitHub: [@Kicks-Me](https://github.com/Kicks-Me)
-- 🌐 Portfolio: [https://kicks-me.pages.dev)
-
----
-
-### 💬 Why Work With Me?
-
-> I believe great software isn’t about the latest framework —  
-> it’s about solving real problems, simply and sustainably.  
->  
-> Your idea matters. Your budget matters.  
-> Let’s make it happen — together.
+- **[HR Online](#)** — Task, leave, attendance & KPI management system (React + Node.js + PostgreSQL)
+- **<a href="https://kk-jobs.la" target="_blank" rel="noopener noreferrer">kk-jobs.la</a>** — Job agency website connecting local businesses and applicants in Laos
+- **[Windows Toolkit](#)** — C#.NET app with SQL Server backend for SMEs
+- **<a href="https://meetprhub.com" target="_blank" rel="noopener noreferrer">FreelancerHub</a>** — On-demand platform connecting users with freelancers for companionship, events, and lifestyle services (e.g. event company, social outings, wellness/massage)
 
 ---
 
-### ☕ Hire Me Now — Buy Me a Coffee!
+### 📬 Contact
 
-If you like what you see and want to support my work please reach me at —  
-**[Buy me a coffee](https://www.kicks-me.pages.dev)** 🌟  
-Your support keeps me building, learning, and turning ideas into reality.
+✉️ yangsenxayp@gmail.com &nbsp;|&nbsp; <a href="https://github.com/Kicks-Me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" valign="middle"></a> &nbsp;|&nbsp; 🌐 <a href="https://kicks-me.pages.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-*Every cup fuels the next project.*
+> Your idea matters — let's build it together.
 
-==============================Lao=================================
+### 💬 Why Hire Me?
 
-# 👋 ສະບາຍດີ, ຂ້າພະເຈົ້າແມ່ນ Kicks-Me
+> Great software isn't about chasing the latest framework — it's about solving real problems, simply and sustainably. I listen, adapt, and build what you actually need, within your budget and timeline.
 
-**ນັກພັດທະນາເວັບ Full-Stack | ນັກພັດທະນາເວັບທີ່ຈະປ່ຽນໄອເດຍຄວາມຝັນຂອງທ່ານໃຫ້ກາຍເປັນຈີງ**
+---
+---
 
-> *“ຂ້າພະເຈົ້າບໍ່ພຽງແຕ່ຂຽນໂປຣແກຣມເທົ່ານັ້ນ — ຂ້າພະເຈົ້າຍັງສາມາດປ່ຽນຄວາມຄິດຂອງທ່ານໃຫ້ເປັນກາຍເປັນຈີງ, ໂດຍອີງຕາມຄວາມສາມາດ, ການເງິນ ແລະ ຄວາມຕ້ອງການ.”*
+# 👋 ສະບາຍດີ, ຂ້ອຍແມ່ນ Kicks-Me
 
-📍 ຕັ້ງຢູ່ສປປ ລາວ • 🌍 ສ້າງລະບົບທີ່ເຮັດວຽກ — ບໍ່ໄດ້ເອົາເລື່ອງທີ່ດູດີເທົ່ານັ້ນ
+## Full-Stack Developer | ຜູ້ປ່ຽນໄອເດຍຄວາມຝັນໃຫ້ເປັນຈິງ
+
+**📍 ສປປ ລາວ • 🌍 ສ້າງລະບົບທີ່ໃຊ້ວຽກໄດ້ຈິງ ບໍ່ແມ່ນແຄ່ສວຍງາມ**
 
 ---
 
-### 🛠️ ເຕັກໂນໂລຊີທີ່ຂ້າພະເຈົ້າໃຊ້
+### 🛠️ ທັກສະ
 
-#### 🌐 ການພັດທະນາເວັບ
-- **Frontend**: React.js, Vue.js, JavaScript, HTML5, CSS3
-- **Backend**: Node.js, Prisma ORM ແລະ Express
-- **ຖານຂໍ້ມູນ**: PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Firebase
-
-#### 💻 ໂປຣແກຣມ Windows, Toolkit
-- **C#.NET** | **VB.NET** | **Java**  
-  (ໂປຣແກຣມ Windows ແລະ ໂດຍອີງໃສ່ລະບົບອື່ນ — ລະບົບສາມາດຂະຫຍາຍຂື້ນເລື້ອຍໆ)
+**Web:** React.js · Vue.js · JavaScript · Node.js · Express · Prisma  
+**ຖານຂໍ້ມູນ:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
+**Desktop:** C#.NET · VB.NET · Java
 
 ---
 
-### 🚀 ຂ້າພະເຈົ້າເຮັດຫຍັງ?
+### 💼 ປະຫວັດການເຮັດວຽກ
 
-ຂ້າພະເຈົ້າເປັນຜູ້ປ່ຽນຄວາມຄິດໃຫ້ເປັນໂປຣແກຣມທີ່ເຮັດວຽກ **(Idea digital)** — ບໍ່ວ່າຈະເປັນເວັບເອັບທີ່ດີ, ໂປຣແກຣມ Windows ທີ່ແຂງແຮງ, ຫຼືລະບົບທີ່ເຊື່ອມຕໍ່ທັງສອງ.  
-ຂ້າພະເຈົ້າຟັງ. ຂ້າພະເຈົ້າປ່ຽນແປງ. ແລະ ສ້າງສິ່ງທີ່ທ່ານ**ຕ້ອງການຈິງ**, ໂດຍອີງໃສ່ຄວາມສາມາດ, ການເງິນ ແລະ ໄລຍະເວລາຂອງທ່ານ.
+- **ນັກພັດທະນາເວັບ Frontend** — ບໍລິສັດ Computer Science Lab · 2025 – ປັດຈຸບັນ  
+  _ພັດທະນາໜ້າເວັບ Frontend ໃຫ້ຕອບໂຈດຄວາມຕ້ອງການດ້ານການຕະຫຼາດ ແລະ ທຸລະກິດ._
+- **ນັກພັດທະນາເວັບ Full Stack** — ບໍລິສັດ TPLUS Digital Sole · 2022 – 2024  
+  _ພັດທະນາລະບົບ B2B E-Topup ດ້ວຍ Node.js, React.js, PHP ແລະ Laravel, ເຊື່ອມຕໍ່ກັບລະບົບ OCS, HLR, USSD, SMSC ແລະ SPNV._
+- **ຫົວໜ້າວິສະວະກຳຊອບແວ** — ບໍລິສັດ Hoya Laos · 2019 – 2022  
+  _ນຳພາທີມວິສະວະກຳ ແລະ ໂຄງການປັບປຸງລະບົບ, ຮັບຜິດຊອບການບຳລຸງຮັກສາເຊີບເວີ, ລະບົບ Real-time ແລະ QC/QA/PD._
 
-ບໍ່ວ່າທ່ານຈະເປັນສະຖາບັນເລີ່ມຕົ້ນທີ່ມີຄວາມຝັນ, ການຄ້າຂະໜາດນ້ອຍ, ກາງ ຫຼື ໃຫຍ່ທີ່ຕ້ອງການອັດຕະໂນມັດ, ຫຼືສະຖາບັນທີ່ເບື່ອຍກັບລະບົບເກົ່າ —  
-**ມາຮ່ວມກັນສ້າງສິ່ງທີ່ເຮັດວຽກໄດ້ຈີງໄປນຳກັນ.**
-
----
-
-### 🔧 ຕົວຢ່າງໂປຣເຈັກ (ເຊື່ອມຕໍ່)
-
-- **[HR Online] ສິ່ງທີ່ດີທີ່ສຸດສຳລັບທ່ານ** — ລະບົບຈັດການງານ, ການລາ, ການມາເຂົ້າ-ອອກວຽກ ແລະ ການປະເມີນ KPI ໂດຍມີຫຼາຍຂັ້ນ (React + Node.js + PostgreSQL)
-- **[ເຄື່ອງມື Windows ຕາມທີ່ຕ້ອງການ]** — ແອັບ Windows ດ້ວຍ C#.NET ທີ່ເຊື່ອມຕໍ່ກັບ SQL Server,... ສຳລັບການຄ້າຂະໜາດນ້ອຍ
+**<a href="https://kicks-me.pages.dev" target="_blank" rel="noopener noreferrer">→ ອ່ານເພີ່ມເຕີມ</a>**
 
 ---
 
-### 📬 ຕິດຕໍ່ກັບຂ້າພະເຈົ້າ
+### 🚀 ຜົນງານເດັ່ນ
 
-- ✉️ ອີເມວ: yangsenxayp@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/kicks-me](https://www.linkedin.com/in/kicks-me)
-- 🐙 GitHub: [@Kicks-Me](https://github.com/Kicks-Me)
-- 🌐 Portfolio: [https://kicks-me.pages.dev](https://kicks-me.pages.dev)
-
----
-
-### 💬 ໄດ້ເຫັນເຫດຜົນໃດທີ່ຄວນເລືອກຂ້າພະເຈົ້າ?
-
-> ຂ້າພະເຈົ້າເຊື່ອວ່າໂປຣແກຣມທີ່ດີບໍ່ໄດ້ຂຶ້ນກັບເຕັກໂນໂລຊີທີ່ທັນສະໄໝ —  
-> ແຕ່ມັນຂຶ້ນກັບການແກ້ໄຂບັນຫາຈິງ, ດ້ວຍວິທີງ່າຍ ແລະ ຢືດຍຸນ.  
->  
-> ຄວາມຄິດຂອງທ່ານມີຄ່າ. ຄວາມສາມາດດ້ານການລົງທຶນຂອງທ່ານກໍມີຄ່າ.  
-> ມາຮ່ວມກັນສ້າງໃຫ້ເກີດຂຶ້ນ — ດ້ວຍກັນ.
+- **[HR Online](#)** — ລະບົບຈັດການງານ, ການລາ, ການເຂົ້າ-ອອກ ແລະ ປະເມີນ KPI (React + Node.js + PostgreSQL)
+- **<a href="https://kk-jobs.la" target="_blank" rel="noopener noreferrer">kk-jobs.la</a>** — ເວັບໄຊຫາງານ ໃຫ້ບໍລິສັດໃນລາວ
+- **[Windows Toolkit](#)** — ແອັບ C#.NET ເຊື່ອມ SQL Server ສຳລັບ SME
+- **<a href="https://meetprhub.com" target="_blank" rel="noopener noreferrer">FreelancerHub</a>** — ແພລດຟອມເຊື່ອມຕໍ່ຜູ້ໃຊ້ກັບຮັບວຽກອິດສະລະ ສຳລັບການເປັນເພື່ອນຮ່ວມງານ ອີເວັນ ແລະ ບໍລິການດ້ານໄລຟ໌ສະໄຕລ໌ (ເຊັ່ນ: ໄປງານ, ອອກສັງສັນ, ນວດ/ຜ່ອນຄາຍ)
 
 ---
 
-### ☕ ມອບວຽກໃຫ້ຂ້າພະເຈົ້າດຽວນີ້ — ຫຼື ຊື້ກາເຟໃຫ້ຂ້າພະເຈົ້າ!
+### 📬 ຕິດຕໍ່
 
-ຖ້າທ່ານຖືກໃຈກັບສິ່ງທີ່ທ່ານເຫັນ ແລະ ຕ້ອງການຊ່ວຍເຫຼືອງານຂອງຂ້າພະເຈົ້າ —  
-**[ຊື້ກາເຟໃຫ້ຂ້າພະເຈົ້າ](https://www.kicks-me.pages.dev)** 🌟  
-ການຊ່ວຍເຫຼືອຂອງທ່ານຊ່ວຍໃຫ້ຂ້າພະເຈົ້າສ້າງ, ສຶກສາ, ແລະ ປ່ຽນຄວາມຄິດໃຫ້ເປັນໃນໂຄງການຕໍ່ໆໄປ.
+✉️ yangsenxayp@gmail.com &nbsp;|&nbsp; <a href="https://github.com/Kicks-Me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" valign="middle"></a> &nbsp;|&nbsp; 🌐 <a href="https://kicks-me.pages.dev" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-*ທຸກໆການຊ່ວຍເຫຼືອຂອງທ່ານມີຄ່າສໍາລັບຂ້າພະເຈົ້າໃນການເດີນຕໍ່ໃນໂປຣເຈັກຕໍ່ໆໄປ.*
+> ຄວາມຄິດຂອງທ່ານມີຄ່າ — ມາຮ່ວມກັນສ້າງໃຫ້ເປັນຈິງ.
+
+---
+---
+
+### 💬 ເປັນຫຍັງຄວນເລືອກຂ້ອຍ?
+
+> ໂປຣແກຣມທີ່ດີບໍ່ໄດ້ຂຶ້ນຢູ່ກັບເຕັກໂນໂລຊີທີ່ທັນສະໄໝທີ່ສຸດ — ແຕ່ຂຶ້ນຢູ່ກັບການແກ້ໄຂບັນຫາຈິງ ດ້ວຍວິທີທີ່ງ່າຍ ແລະ ຍືນຍົງ. ຂ້ອຍຮັບຟັງ, ປັບຕົວ, ແລະ ສ້າງສິ່ງທີ່ທ່ານຕ້ອງການແທ້ໆ, ໂດຍອີງໃສ່ງົບປະມານ ແລະ ໄລຍະເວລາຂອງທ່ານ.
