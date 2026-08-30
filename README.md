@@ -9,9 +9,9 @@
 
 ### 🛠️ Skills
 
-**Web:** React.js · Vue.js · JavaScript · Node.js · Express · Prisma  
-**Databases:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
-**Desktop:** C#.NET · VB.NET · Java
+**🔸 Web:** React.js · Vue.js · JavaScript · Node.js · Express · Prisma  
+**🔸 Databases:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
+**🔸 Desktop:** C#.NET · VB.NET · Java
 
 ---
 
@@ -60,9 +60,9 @@
 
 ### 🛠️ ທັກສະ
 
-**Web:** React.js · Vue.js · JavaScript · Node.js · Express · Prisma  
-**ຖານຂໍ້ມູນ:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
-**Desktop:** C#.NET · VB.NET · Java
+**🔸 Web:** React.js · Vue.js · JavaScript · Node.js · Express · Prisma  
+**🔸 ຖານຂໍ້ມູນ:** PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Firebase  
+**🔸 Desktop:** C#.NET · VB.NET · Java
 
 ---
 
